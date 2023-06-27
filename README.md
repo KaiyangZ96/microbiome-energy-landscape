@@ -30,6 +30,6 @@ python execute_EL.py --target_path ./ \
 --save_path ./
 ```  
 ## Source of original data
--The 16S microbiome abundance data are available from study NIDDK U54DE023798: https://ibdmdb.org/tunnel/public/HMP2/16S/1806/products
+The 16S microbiome abundance data are available from study NIDDK U54DE023798: https://ibdmdb.org/tunnel/public/HMP2/16S/1806/products
 
 
