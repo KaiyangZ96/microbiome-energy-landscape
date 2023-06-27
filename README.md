@@ -1,5 +1,5 @@
 # Energy landscape method incooperating LDA and pairwise MaxEnt model
-The scripts for running energy landscape method described in study:“An energy landscape approach reveals the potential key genera contributing to the development of inflammatory bowel disease”.
+The scripts for running energy landscape method described in study:“An energy landscape approach reveals the potential key bacteria contributing to the development of inflammatory bowel disease”.
 
 ## How to run
 
