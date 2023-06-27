@@ -29,5 +29,7 @@ python execute_EL.py --target_path ./ \
 --binarized_file binarized_data_01_CD.csv \
 --save_path ./
 ```  
+## Source of original data
+-The 16S microbiome abundance data are available from study NIDDK U54DE023798: https://ibdmdb.org/tunnel/public/HMP2/16S/1806/products
 
 
